@@ -1,0 +1,18 @@
+{
+  "title": {
+    "message": "CryptBD",
+    "description": "The title in the navbar"
+  },
+  "logo.alt": {
+    "message": "My Site Logo",
+    "description": "The alt text of navbar logo"
+  },
+  "item.label.Documentación": {
+    "message": "Documentation",
+    "description": "Navbar item with label Documentación"
+  },
+  "item.label.Tomás Becher ": {
+    "message": "Tomás Becher ",
+    "description": "Navbar item with label Tomás Becher "
+  }
+}

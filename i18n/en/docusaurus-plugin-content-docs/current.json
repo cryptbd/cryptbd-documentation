@@ -1,0 +1,18 @@
+{
+  "version.label": {
+    "message": "Next",
+    "description": "The label for version current"
+  },
+  "sidebar.tutorialSidebar.category.Desarrollo": {
+    "message": "Desarrollo",
+    "description": "The label for category Desarrollo in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Descripción del sistema": {
+    "message": "Descripción del sistema",
+    "description": "The label for category Descripción del sistema in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Billetera": {
+    "message": "Billetera",
+    "description": "The label for category Billetera in sidebar tutorialSidebar"
+  }
+}
